@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cadastro3</string>
+
+    <string-array name="array_escolaridade">
+        <item>Ensino Fundamental</item>
+        <item>Ensino Médio</item>
+        <item>Ensino Superior</item>
+    </string-array>
+</resources>
